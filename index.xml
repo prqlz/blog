@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>orgueira</title>
-    <link>https://prqlz.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content on orgueira</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://prqlz.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 May 2025 02:45:58 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hey :)</title>
+      <link>http://localhost:1313/blog/posts/hey/</link>
+      <pubDate>Fri, 16 May 2025 02:45:58 -0300</pubDate>
+      <guid>http://localhost:1313/blog/posts/hey/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
